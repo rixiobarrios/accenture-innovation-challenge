@@ -1,3 +1,5 @@
+![DIEDi62U0AEPBxH](https://github.com/rixiobarrios/accenture-innovation-challenge/assets/55994508/fd9682b4-6620-45dc-b1b6-2331dc97cb92)
+
 # Accenture Innovation Showcase
 
 * Tool or Technology:
