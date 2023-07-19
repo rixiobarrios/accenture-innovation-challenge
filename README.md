@@ -3,6 +3,7 @@
 # Innovator Showcase
 
 ### Tool or Technology:
+![download-1](https://github.com/rixiobarrios/javascript-reps/assets/55994508/8f20f1a9-9484-4cfc-bc76-bf3f51fbed95)
 
 Phind; A free generative AI search engine for developers.
 
